@@ -1,10 +1,5 @@
 # <p align="center">✨Travel Website✨</p>
 ![Website Preview](https://github.com/Anugupta5102/TOURISTA/raw/main/img/Tourista%20-%20Google%20Chrome%2011_23_2024%205_11_49%20PM.png)
-<p align="center">
-    <div align="center"> 
-
-    </div>
-</p>
 
 <p>Hello Coders!!👨‍💻<br> I am Anushree Gupta, an aspiring Web developer🤖. Here is the project on front-end Web Development.</p>
 
