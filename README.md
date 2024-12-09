@@ -3,7 +3,8 @@
    
 <div align="center"> 
     <h1> 
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=470&lines=Welcome+to+Tourista!;Explore+Your+Next+Adventure!;Find+The+Best+Travel+Destinations!;Discover+Hidden+Gems!;Plan+Your+Perfect+Getaway!;Travel+Smart+with+Tourista!;Unforgettable+Journeys+Await!" alt="Typing SVG"/> 
+        <img src="![Tourista - Google Chrome 11_23_2024 5_11_49 PM](https://github.com/user-attachments/assets/2e88b381-df05-4d6b-8629-586d4dab4086)
+" alt="Typing SVG"/> 
     </h1>
 </div>
    
