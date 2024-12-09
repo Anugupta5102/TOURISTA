@@ -17,7 +17,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2>Overview📌</h2>
-<p>This repository contains my project on a Travel Website✈️ using HTML, CSS, and JavaScript. It features a landing page for a travel tour company website. Finding the perfect travel destination can be a challenge. This project aims to streamline that process🚤. We welcome all contributions to make this a fantastic resource for travelers. Jump in and contribute to this grand project! Read the guidelines📚 and get started building!</p>
+<p>This repository contains my project on a Travel Website✈️ using HTML, CSS, and JavaScript. It features a landing page for a travel tour company website. Finding the perfect travel destination can be a challenge. This project aims to streamline that process🚤. </p>
 
 <h2>Live Demo</h2>
 
