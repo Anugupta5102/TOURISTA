@@ -3,24 +3,11 @@
    
 <div align="center"> 
     <h1> 
-        ![Website Preview](img/Tourista%20-%20Google%20Chrome%2011_23_2024%205_11_49%20PM.png)
+       ![Website Preview](https://github.com/Anugupta5102/TOURISTA/raw/main/img/Tourista%20-%20Google%20Chrome%2011_23_2024%205_11_49%20PM.png)
+
     </h1>
-</div>
-           ![Website Preview](img/Tourista%20-%20Google%20Chrome%2011_23_2024%205_11_49%20PM.png)
- <div align="center">
- <p>
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=apu52%2FTravel_Website%20&countColor=%23263759&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/apu52/Travel_Website)
-![GitHub Repo stars](https://img.shields.io/github/stars/apu52/Travel_Website)
-![GitHub last commit](https://img.shields.io/github/last-commit/apu52/Travel_Website)
-![GitHub repo size](https://img.shields.io/github/repo-size/apu52/Travel_Website)
-![Github](https://img.shields.io/github/license/apu52/Travel_Website)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/apu52/Travel_Website)
 
- </p>
  </div>
 
  
