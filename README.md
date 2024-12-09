@@ -21,11 +21,8 @@
 
 <h2>Live Demo</h2>
 
-Check out the live project [here](https://apu52.github.io/Travel_Website/).
+Check out the live project [here]().
 
-<p align="center">
-  <img src="https://github.com/avanimathur/Travel_Website/assets/151984867/1024d506-92c6-4b35-a4ab-2d4eaca78199" alt="Live Demo">
-</p>
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
