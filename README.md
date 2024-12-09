@@ -21,7 +21,7 @@
 
 <h2>Live Demo</h2>
 
-Check out the live project [here]().
+Check out the live project [here](https://Anugupta5102.github.io/TOURISTA/).
 
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
