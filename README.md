@@ -3,14 +3,10 @@
    
 <div align="center"> 
     <h1> 
-        <img src="![Tourista - Google Chrome 11_23_2024 5_11_49 PM](https://github.com/user-attachments/assets/2e88b381-df05-4d6b-8629-586d4dab4086)
-" alt="Typing SVG"/> 
+        ![Website Preview](img/Tourista%20-%20Google%20Chrome%2011_23_2024%205_11_49%20PM.png)
     </h1>
 </div>
-   
-![image](https://github.com/avanimathur/Travel_Website/assets/151984867/1024d506-92c6-4b35-a4ab-2d4eaca78199)
-
-
+           ![Website Preview](img/Tourista%20-%20Google%20Chrome%2011_23_2024%205_11_49%20PM.png)
  <div align="center">
  <p>
 
@@ -27,9 +23,7 @@
  </p>
  </div>
 
- <h2>Hi there👋, Enjoy the World of Open source contribution </h2>
-
-
+ 
 <p>Hello Coders!!👨‍💻<br> I am Anushree Gupta, an aspiring Web developer🤖. Here is the project on front-end Web Development.</p>
 
 
