@@ -1,20 +1,11 @@
 # <p align="center">✨Travel Website✨</p>
 <p align="center">
-   
-<div align="center"> 
-    <h1> 
-       ![Website Preview](https://github.com/Anugupta5102/TOURISTA/raw/main/img/Tourista%20-%20Google%20Chrome%2011_23_2024%205_11_49%20PM.png)
+    <div align="center"> 
+        ![Website Preview](https://github.com/Anugupta5102/TOURISTA/raw/main/img/Tourista%20-%20Google%20Chrome%2011_23_2024%205_11_49%20PM.png)
+    </div>
+</p>
 
-    </h1>
-
-
- </div>
-
- 
 <p>Hello Coders!!👨‍💻<br> I am Anushree Gupta, an aspiring Web developer🤖. Here is the project on front-end Web Development.</p>
-
-
-
 
 <div id="top"></div>
 <!--line-->
@@ -30,7 +21,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2>Overview📌</h2>
-<p>This repository contains my project on a Travel Website✈️ using HTML, CSS and JavaScript. It features a landing page for a travel tour company website. Finding the perfect travel destination can be a challenge. This project aims to streamline that process🚤. We welcome all contributions to make this a fantastic resource for travelers. Jump in and contribute to this grand project! Read the guidelines📚 and get started building!</p>
+<p>This repository contains my project on a Travel Website✈️ using HTML, CSS, and JavaScript. It features a landing page for a travel tour company website. Finding the perfect travel destination can be a challenge. This project aims to streamline that process🚤. We welcome all contributions to make this a fantastic resource for travelers. Jump in and contribute to this grand project! Read the guidelines📚 and get started building!</p>
 
 <h2>Live Demo</h2>
 
@@ -69,5 +60,3 @@ Check out the live project [here](https://apu52.github.io/Travel_Website/).
 
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
