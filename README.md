@@ -1,7 +1,8 @@
 # <p align="center">✨Travel Website✨</p>
+![Website Preview](https://github.com/Anugupta5102/TOURISTA/raw/main/img/Tourista%20-%20Google%20Chrome%2011_23_2024%205_11_49%20PM.png)
 <p align="center">
     <div align="center"> 
-        ![Website Preview](https://github.com/Anugupta5102/TOURISTA/raw/main/img/Tourista%20-%20Google%20Chrome%2011_23_2024%205_11_49%20PM.png)
+
     </div>
 </p>
 
